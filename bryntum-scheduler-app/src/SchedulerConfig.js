@@ -15,7 +15,7 @@ const schedulerConfig = {
     crudManager : {
         transport : {
             load : {
-                url : 'data.json'
+                url : 'output(1).json'
             }
         },
         autoLoad : true
