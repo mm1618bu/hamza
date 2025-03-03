@@ -3,6 +3,7 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
+    "expo": "^52.0.37",
     "expo-status-bar": "^2.0.1"
   }
 }
