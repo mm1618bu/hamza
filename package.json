@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "expo-status-bar": "^2.0.1"
+  }
+}
